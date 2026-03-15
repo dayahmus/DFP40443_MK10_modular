@@ -1,7 +1,7 @@
 <?php
 session_start();
 require 'data.php';
-require 'functions.php';
+require 'function.php';
 
 $menu = $_GET['menu'] ?? 'utama';
 

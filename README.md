@@ -13,4 +13,9 @@
 7. Sediakan nota ringkas dalam *Pull Request*:
    - Apakah yang anda modularkan?
    - Mengapa struktur itu lebih baik?
+
+NURUL HIDAYAH BINTI MUSTAFA <br>
+18DIT24F1994 <br>
+DIT4E <br>
+DIT4E_18DIT24F1994_dayahmus
    

@@ -9,7 +9,7 @@
     <div class="invoice-box">
         <div class="invoice-header">
             <div><strong>Kepada:</strong><br><?= $invois['nama_pelanggan'] ?></div>
-            <div style="text-align:right;">
+            <div class="text-right;">
                 <strong>No. Invois:</strong> <?= $invois['no_invois'] ?><br>
                 <strong>Tarikh:</strong> <?= $invois['tarikh'] ?>
             </div>

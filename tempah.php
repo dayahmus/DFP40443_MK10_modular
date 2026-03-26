@@ -33,19 +33,14 @@
         <div class="checkout-card">
             <div class="price-row">
                 <span class="total-label">Jumlah Harga:</span>
-                <span id="totalPrice" class="grand-total" style="color: #2e7d32; font-weight: bold;">RM 0.00</span>
+                <span id="totalPrice" class="grand-total">RM 0.00</span>
             </div>
             
             <div class="name-input-section">
                 <label>Nama Penuh Anda:</label>
-                <input type="text" name="nama_pelanggan" placeholder="Contoh: Ali Bin Abu" required 
-                       style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ddd; border-radius: 4px;">
+                <input type="text" name="nama_pelanggan" placeholder="Contoh: Ali Bin Abu" required>
             </div>
-            
-            <button type="submit" class="btn-teruskan" 
-                    style="background-color: #e65124; color: white; border: none; padding: 12px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 15px;">
-                Teruskan
-            </button>
+            <button type="submit" class="btn-teruskan">Teruskan</button>
         </div>
     </div>
 </form>
